@@ -32,7 +32,7 @@ Most callbacks shipped with Ansible are disabled by default and need to be white
 
 .. code-block:: ini
 
-  #callback_whitelist = timer, mail, profile_roles
+  callback_whitelist = timer, mail, profile_roles
 
 
 Managing stdout
